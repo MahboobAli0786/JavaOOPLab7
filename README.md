@@ -32,4 +32,4 @@ This repository is shared as part of my learning journey. Feel free to suggest f
 
 ---
 
-> 📌 *Written in pure Java (no frameworks). Built and tested using [your IDE, e.g., IntelliJ IDEA, Eclipse].*
+> 📌 *Written in pure Java (no frameworks). Built and tested using [your IDE, e.g., IntelliJ IDEA, Netbeans ,Eclipse].*
